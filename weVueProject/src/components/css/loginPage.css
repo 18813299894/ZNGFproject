@@ -1,0 +1,313 @@
+.oval1{
+	width: 25px;
+	height: 25px;
+	opacity: 0.13;
+	background-image: linear-gradient(-142deg, #68DEBD 4%, #328D9F 54%, #3EA5CB 100%);
+	border-radius: 12.5px;
+	position: absolute;
+	top: 130px;
+	left: 0;
+}
+.oval2{
+	width: 97px;
+	height: 97px;
+	opacity: 0.08;
+	background-image: linear-gradient(-142deg, #009400 4%, #328D9F 54%, #3EA5CB 100%);
+	border-radius: 48.5px;
+	position: absolute;
+	top: 142px;
+	left: 32px;
+}
+.oval3{
+	width: 13px;
+	height: 13px;
+	opacity: 0.08;
+	background-image: linear-gradient(-142deg, #6882DE 9%, #328D9F 57%, #3EA5CB 100%);
+	border-radius: 6.5px;
+	position: absolute;
+	top: 101px;
+	left: 97px;
+}
+.oval4{
+	width: 48px;
+	height: 48px;
+	background: #E9FEF0;
+	border-radius: 24px;
+	position: absolute;
+	top: 154px;
+	left: 103px;
+}
+.oval5{
+	width: 42px;
+	height: 42px;
+	opacity: 0.06;
+	background-image: linear-gradient(-142deg, #68C9DE 6%, #328D9F 71%, #3EA5CB 100%);
+	border-radius: 21px;
+	position: absolute;
+	top: 72px;
+	left: 183px;
+}
+.oval6{
+	width: 5px;
+	height: 5px;
+	background: #FEED80;
+	border-radius: 2.5px;
+	position: absolute;
+	top: 105px;
+	left: 253px;
+}
+.oval7{
+	width: 28px;
+	height: 28px;
+	opacity: 0.18;
+	background-image: linear-gradient(-142deg, #009300 4%, #328D9F 54%, #3EA5CB 100%);
+	border-radius: 14px;
+	position: absolute;
+	top: 114px;
+	left: 288px;
+}
+.oval8{
+	width: 129px;
+	height: 129px;
+	opacity: 0.06;
+	background-image: linear-gradient(-142deg, #009300 7%, #328D9F 56%, #3EA5CB 100%);
+	border-radius: 64.5px;
+	position: absolute;
+	top: 175px;
+	left: 285px;
+	z-index: 2;
+}
+.rectangle{
+	width: 8.9px;
+	height: 8.9px;
+	transform: rotate(-68deg);
+	background: #009300;
+	position: absolute;
+	top: 71.4px;
+	left: 287.4px;
+}
+.star-five{  
+   display: block;
+   width: 0px;
+   height: 0px;
+   -moz-transform:    rotate(35deg);
+   -webkit-transform: rotate(35deg);
+   -ms-transform:     rotate(35deg);
+   -o-transform:      rotate(35deg);
+}
+.star-five-1{
+	margin: 2px 0;
+	position: relative;
+	border-right:  4px solid transparent;
+    border-bottom: 2.8px  solid #3F6BAA;
+    border-left:   4px solid transparent;
+}
+.star-five-2{
+	margin: 2.5px 0;
+	position: relative;
+	border-right:  5px solid transparent;
+    border-bottom: 3.5px  solid #4A90E2;
+    border-left:   5px solid transparent;
+}
+.star-five:before {
+   height: 0;
+   width: 0;
+   display: block;
+   content: '';
+   -webkit-transform: rotate(-35deg);
+   -moz-transform:    rotate(-35deg);
+   -ms-transform:     rotate(-35deg);
+   -o-transform:      rotate(-35deg);
+}
+.star-five-1:before{
+	border-bottom: 3.2px solid #3F6BAA;
+	border-left: 1.2px solid transparent;
+	border-right: 1.2px solid transparent;
+	position: absolute;
+	top: -1.8px;
+	left: -2.6px;
+	content: '';
+}
+.star-five-2:before{
+	border-bottom: 4px solid #4A90E2;
+	border-left: 1.5px solid transparent;
+	border-right: 1.5px solid transparent;
+	position: absolute;
+	top: -2.25px;
+	left: -3.23px;
+	content: '';
+}
+.star-five:after {
+   display: block;
+   width: 0px;
+   height: 0px;
+   -webkit-transform: rotate(-70deg);
+   -moz-transform:    rotate(-70deg);
+   -ms-transform:     rotate(-70deg);
+   -o-transform:      rotate(-70deg);
+   content: '';
+}
+.star-five-1:after{
+	position: absolute;
+	top: 0.12px;
+	left: -4.2px;
+	border-right: 4px solid transparent;
+	border-bottom: 2.8px solid #3F6BAA;
+	border-left: 4px solid transparent;
+	content: '';
+}
+.star-five-2:after{
+	position: absolute;
+	top: 0.15px;
+	left: -5.25px;
+	border-right: 5px solid transparent;
+	border-bottom: 3.5px solid #4A90E2;
+	border-left: 5px solid transparent;
+	content: '';
+}
+.star-1{
+	position: absolute;
+	top: 110px;
+	left: 54px;
+}
+.star-2{
+	position: absolute;
+	top: 156px;
+	left: 285px;
+}
+.Pent-1{
+	position: absolute;
+	top: 127px;
+	left: 125px;
+}
+.pentagon-1 {
+	display: block;
+    position: relative;
+    width: 5.4px;
+    border-width: 5px 1.8px 0;
+    border-style: solid;
+    border-color: #346770 transparent;
+}
+.pentagon-1:before {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -8.5px;
+    left: -1.8px;
+    border-width: 0 4.5px 3.5px;
+    border-style: solid;
+    border-color: transparent transparent #346770;
+}
+.Pent-2{
+	position: absolute;
+	top: 69px;
+	left: 152px;
+}
+.pentagon-2 {
+	display: block;
+    position: relative;
+    width: 5.4px;
+    border-width: 5px 1.8px 0;
+    border-style: solid;
+    border-color: #8ABCC5 transparent;
+}
+.pentagon-2:before {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -8.5px;
+    left: -1.8px;
+    border-width: 0 4.5px 3.5px;
+    border-style: solid;
+    border-color: transparent transparent #8ABCC5;
+}
+.Pent-3{
+	position: absolute;
+	top: 160px;
+	left: 161.1px;
+}
+.pentagon-3 {
+	display: block;
+    position: relative;
+    width: 2.7px;
+    border-width: 2.5px 0.9px 0;
+    border-style: solid;
+    border-color: #78CBDA transparent;
+}
+.pentagon-3:before {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -4.25px;
+    left: -0.9px;
+    border-width: 0 2.25px 1.75px;
+    border-style: solid;
+    border-color: transparent transparent #78CBDA;
+}
+.word{
+	display: block;
+	width: 208px;
+	height: 44px;
+	line-height: 44px;
+	font-family: PingFangSC-Regular;
+	font-size: 24px;
+	color: #000000;
+	letter-spacing: 0;
+	line-height: 44px;
+	position: absolute;
+	top: 181px;
+	left: 99px;
+}
+.logo{
+	display: block;
+	width: 83.7px;
+	height: 88px;
+	position: absolute;
+	top: 92.3px;
+	left: 163px;
+}
+/* ----------------------------------------------------------- */
+.username{
+	margin: 258px 0 0 20px;
+	text-align: left;
+}
+.password{
+	margin: 20px 0 0 20px;
+	text-align: left;
+}
+.identifyingCode{
+	margin: 20px 0 0 20px;
+	text-align: left;
+}
+.loginPage .loginStyle>>>.weui-cells__title{
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #5B4C85;
+	letter-spacing: 0;
+	line-height: 26px;
+	padding-left: 5px;
+	margin-top: 5px;
+}
+.loginPage .loginStyle>>>.weui-cells{
+	width: 382px;
+}
+.loginPage .loginStyle>>>.weui-cells:before{
+	content: '';
+	width: 0;
+}
+.loginPage .loginStyle>>>.weui-cells:after{
+	content: '';
+	border-bottom: 2px solid #e5e5e5;
+}
+.loginPage .loginStyle>>>.weui-cell{
+	padding: 5px 0 5px 5px;
+}
+.btnStyle{
+	margin-top: 45px;
+}
+.vcode{
+	display: block;
+}

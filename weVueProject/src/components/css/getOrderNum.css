@@ -1,0 +1,33 @@
+.getOrderNum{
+	padding-top: 84px;
+	text-align: left;
+}
+.getOrderNum .orderNum{
+	background: #fff;
+	width: 414px;
+	height: 46px;
+	line-height: 46px;
+	box-sizing: border-box;
+	padding-left: 15px;
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #B2B2B2;
+	border-top: 1px solid #d6d6d6;
+}
+.getOrderNum .list{
+	width: 414px;
+	height: 46px;
+	box-sizing: border-box;
+	background: #fff;
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000;
+}
+.getOrderNum .list:before{
+	border: 1px solid #dfd6d6;
+	left: 0;
+}
+.getOrderNum .list .weui-cell__ft:after{
+	width: 8px;
+	height: 8px;
+}

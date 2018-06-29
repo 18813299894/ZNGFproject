@@ -1,0 +1,29 @@
+.queryResultPage{
+	padding-top: 64px;
+	text-align: left;
+}
+.queryResultPage .resultTitle{
+	width: 414px;
+	height: 62px;
+	box-sizing: border-box;
+	padding: 10px 0 0 18px;
+	border-bottom: 1px solid #eee;
+	border-top: 1px solid #eee;
+	background: #fff;
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #000000;
+}
+.queryResultPage .oderList{
+	width: 414px;
+	height: 46px;
+	box-sizing: border-box;
+	line-height: 45px;
+	padding-left: 15px;
+	border-bottom: 1px solid #eee;
+	background: #fff;
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000000;
+	line-height: 46px;
+}

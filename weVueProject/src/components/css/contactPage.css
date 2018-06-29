@@ -1,0 +1,27 @@
+.contactPage{
+	padding-top: 68px;
+}
+/*----------------------------*/
+.contactPage .contactMsg{
+	box-sizing: border-box;
+	width: 414px;
+	height: 124px;
+	background: #fff;
+	text-align: left;
+	padding: 20px 0 0 15px;
+	margin-top: 20px;
+}
+.contactPage .contactMsg p{
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #4A4A4A;
+	letter-spacing: -0.34px;
+	line-height: 22px;
+	padding-bottom: 5px;
+}
+/*------------------------*/
+.annexInformation{
+	width: 383px;
+	height: 403px;
+	margin: 15px 0 0 15px;
+}

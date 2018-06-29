@@ -1,0 +1,59 @@
+.attentionPage{
+	padding-top: 67px;
+}
+/* ----------------------------------- */
+.attentionPage .weui-media-box{
+	padding: 0;
+	background: #fff;
+	width: 414px;
+	height: 89px;
+	position: absolute;
+	top: 114px;
+	left: 0;
+}
+.attentionPage .weui-media-box .weui-media-box__title{
+	display: block;
+	width: 94px;
+	height: 33px;
+	font-family: PingFangSC-Medium;
+	font-size: 24px;
+	color: #333333;
+	letter-spacing: -0.58px;
+	margin: 10px 0 0 15px;
+	font-weight: bold;
+}
+.attentionPage .weui-media-box .weui-media-box__info .weui-media-box__info__meta{
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #9B9B9B;
+	margin-left: 15px;
+}
+/* ----------------------------------- */
+.attentionList{
+	width: 414px;
+	height: 89px;
+	box-sizing: border-box;
+	position: absolute;
+	top: 213px;
+	left: 0;
+	background: #fff;
+	text-align: left;
+	padding-left: 15px;	
+	padding-top: 5px;
+}
+.attentionList li{
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #4A4A4A;
+	letter-spacing: -0.34px;
+	line-height: 22px;
+	list-style: none;
+}
+/* ------------------ */
+.annexInformation{
+	width: 383px;
+	height: 403px;
+	position: absolute;
+	top: 324px;
+	left: 12px;
+}

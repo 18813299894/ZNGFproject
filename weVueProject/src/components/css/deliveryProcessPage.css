@@ -1,0 +1,47 @@
+.deliveryProcessPage{
+	padding-top: 62px;
+	text-align: left;
+}
+.deliveryProcessPage .classificationTitle{
+	box-sizing: border-box;
+	width: 414px;
+	height: 89px;
+	background: #fff;
+	border-bottom: 1px solid #F5F5F5;
+	padding-top: 15px;
+}
+.deliveryProcessPage .classificationTitle h1{
+	font-family: PingFangSC-Medium;
+	font-size: 24px;
+	color: #333	;
+	letter-spacing: -0.58px;
+	padding-left: 15px;
+}
+.deliveryProcessPage .classificationTitle p{
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #9B9B9B;
+	padding-left: 17px;
+}
+.deliveryProcessPage .classificationMsg{
+	box-sizing: border-box;
+	width: 414px;
+	height: 313px;
+	background: #fff;
+	padding: 15px 0 0 15px;
+}
+.deliveryProcessPage .classificationMsg p{
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #4A4A4A;
+	letter-spacing: -0.34px;
+	line-height: 22px;
+	padding-bottom: 5px;
+}
+.deliveryProcessPage .classificationMsg i{
+	display: block;
+	width: 384px;
+	height: 200px;
+	background: #000;
+	margin-top: 18px;
+}

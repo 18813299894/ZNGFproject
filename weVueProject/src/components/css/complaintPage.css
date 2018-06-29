@@ -1,0 +1,58 @@
+.complaintPage{
+	padding-top: 84px;
+}
+.complaintPage .proveArea{
+	width: 414px;
+	height: 140px;
+	background: #fff;
+	text-align: left;
+}
+.complaintPage .proveArea p{
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000000;
+	line-height: 24px;
+	padding:20px 0 0 15px;
+}
+.complaintPage .proveArea .addIcon{
+	box-sizing: border-box;
+	width: 50px;
+	height: 50px;
+	border: 1px solid #EDEDED;
+	text-align: center;
+	line-height: 40px;
+	font-size: 40px;
+	color: #ccc;
+	margin: 15px 0 0 15px;
+}
+/* ------------- */
+.complaintPage .textArea .weui-cells .textAreaSize{
+	box-sizing: border-box;
+	padding: 0;
+	width: 414px;
+	height: 76px;
+}
+.textAreaSize .weui-cell__bd .weui-textarea{
+	box-sizing: border-box;
+	height: 76px;
+	width: 414px;
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #B2B2B2;
+	line-height: 24px;
+	padding-left: 10px;
+	padding-top: 15px;
+}
+.complaintPage .submissionBtn{
+	margin-top: 30px;
+}
+/* .complaintPage .submissionBtn{
+	width: 384px;
+	height: 46px;
+	margin-top: 30px;
+	background: #2F7DCD;
+	border-radius: 5px;
+}  */
+/* .weui-btn_primary:not(.weui-btn_disabled):active{
+	background: #1b72ca;
+} */

@@ -1,0 +1,41 @@
+.futurePricePush{
+	padding-top: 114px;
+	text-align: left;
+}
+/* ------------------------------------------- */
+.futurePricePush .pushMsg{
+	box-sizing: border-box;
+	width: 378px;
+	height: 202px;
+	padding: 10px;
+	margin: 0 auto;
+	background: #fff;
+	border: 1px solid #D9D9D9;
+	border-radius: 5px;
+}
+.futurePricePush .pushMsg h3{
+	font-size: 16px;
+	font-weight: normal;
+}
+.futurePricePush .pushMsg p{
+	color: #ababab;
+}
+.futurePricePush .pushMsg .msgList{
+	list-style: none;
+	margin-top: 30px;
+	color: #ababab;
+	padding-bottom: 10px;
+}
+.futurePricePush .pushMsg .msgList li{
+	line-height: 20px;
+}
+.futurePricePush .pushMsg .weui-cell{
+	padding-left: 0;
+}
+.pushMsg .weui-cell .weui-cell__bd p{
+	color: #000;
+}
+.futurePricePush .pushMsg .weui-cell:before{
+	width: 358px;
+	left: 0;
+}

@@ -1,0 +1,76 @@
+.personalPage{
+	padding-top: 84px;
+	text-align: left;
+}
+.personalPage .personTitle{
+	box-sizing: border-box;
+	border: 1px solid #E3E3E3;
+	width: 414px;
+	height: 88px;
+	background: #fff;
+	margin-bottom: 20px;
+}
+.personalPage .personTitle img{
+	display:block;
+	width: 66px;
+	height: 66px;
+	background: #fff;
+	padding: 11px 10px 0 15px;
+	float: left;
+}
+.personalPage .personTitle .name{
+	padding-top: 10px;
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000;
+	line-height: 24px;
+}
+.personalPage .personTitle .num{
+	padding-top: 10px;
+	font-family: PingFangSC-Regular;
+	font-size: 14px;
+	color: #000;
+	line-height: 14px;
+}
+/* --------------- */
+.personalPage .weui-cell{
+	box-sizing: border-box;
+	height: 46px;
+	background: #fff;
+}
+.personalPage .weui-cell:before{
+	left: 0;
+}
+.personalPage .weui-cell .weui-cell__bd p{
+	ont-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000000;
+	line-height: 24px;
+}
+.personalPage .weui-cell .weui-cell__ft{
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #2F7DCD;
+	line-height: 24px;
+}
+.personalPage .admin .weui-cell__ft{
+	color: #000;
+}
+.personalPage .password{
+	margin-bottom: 30px;
+}
+.personalPage .password .weui-cell__ft{
+	font-size: 30px;
+	color: #000;
+	padding-bottom: 5px;
+}
+/* -------------- */
+.personalPage .weui-btn{
+	width: 414px;
+	height: 46px;
+	background: #fff;
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #2F7DCD;
+	line-height: 24px;
+}

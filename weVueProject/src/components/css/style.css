@@ -1,0 +1,102 @@
+/*--------------------------------页面基本样式*/
+.pageStyle{
+	box-sizing: border-box;
+	width: 414px;
+	height: 736px;
+	background: #F5F6F7;
+}
+/* --------------------------------基地选择*/
+.baseStyle{
+	padding: 0;
+	width: 414px;
+	height: 46px;
+	background: #fff;
+}
+.baseStyle .weui-cell__bd p{
+	text-align: left;
+	font-size: 17px;
+	color: #000;
+	padding-left: 15px;
+	line-height: 24px;
+}
+.baseStyle .weui-cell__ft{
+	float: right;
+	font-size: 17px;
+	color: #000;
+	line-height: 24px;
+	margin-right: 15px;
+}
+/* --------------------------------输入框样式 */
+.inputStyle{
+	width: 414px;
+	height: 46px;
+	background: #fff;
+	box-sizing: border-box;
+	padding: 0;
+}
+.inputStyle .weui-cell__hd .weui-label{
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000000;
+	text-align:left;
+	margin-left: 15px;
+	line-height: 24px;
+
+}
+.inputStyle .weui-cell__bd .weui-input{
+	font-family: PingFangSC-Regular;
+	font-size: 17px;
+	color: #000;
+	line-height: 24px;
+	padding-left: 10px;
+	width: 280px;
+} 
+.inputStyle .weui-cell__ft .weui-icon-warn{
+	position: relative;
+	left: -30px;
+}
+/* ----------------------------------附件信息*/
+.annexInformation h3{
+	text-align: left;
+	font-weight: normal;
+	color: #D4D7D7;
+}
+.annexInformation .informationList li{
+	list-style: none;
+	display: block;
+	width: 380px;
+	height: 30px;
+	background: #E7F3E6;
+	margin-top: 5px;
+	border: 1px solid #DEEBDD;
+	border-radius: 5px;
+}
+.annexInformation .informationList .icon{
+	float: left;
+	width: 30px;
+	height: 30px;
+	background: #000;
+}
+.annexInformation .informationList .fl{
+	float: left;
+	font-size: 14px;
+	line-height: 30px;
+	padding-left: 10px;
+}
+.annexInformation .informationList .fr{
+	float: right;
+	font-size: 14px;
+	line-height: 30px;
+	padding-right: 10px;
+	color: #B2B8B3;
+}
+/* -------------------------------------按钮 */
+.weui-btn_primary{
+	width: 384px !important;
+	height: 46px;
+	background: #2F7DCD;
+	border-radius: 5px;
+}
+.weui-btn_primary:not(.weui-btn_disabled):active{
+	background: #1b72ca;
+}
